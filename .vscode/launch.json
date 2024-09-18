@@ -1,0 +1,519 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "OOPS.Employee",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Task5",
+            "request": "launch",
+            "mainClass": "Hackathon.Task5",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Task8",
+            "request": "launch",
+            "mainClass": "Hackathon.Task8",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Task4",
+            "request": "launch",
+            "mainClass": "Hackathon.Task4",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Task3",
+            "request": "launch",
+            "mainClass": "Hackathon.Task3",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Task1",
+            "request": "launch",
+            "mainClass": "Hackathon.Task1",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "demo1",
+            "request": "launch",
+            "mainClass": "Production_Worker.demo1",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "Compostion.Circle",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Compostion.Main",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Polydemo",
+            "request": "launch",
+            "mainClass": "Polymorphism.Polydemo",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Abstraction.main",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance1",
+            "request": "launch",
+            "mainClass": "Inheritance.Inheritance1",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "Abstraction.Main2",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Abstraction.Main",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "single",
+            "request": "launch",
+            "mainClass": "Inheritance.single",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "GUI3",
+            "request": "launch",
+            "mainClass": "GUI.GUI3",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "A.B",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array.Array",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "Array.Array1",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Array2",
+            "request": "launch",
+            "mainClass": "Array.Array2",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Array3",
+            "request": "launch",
+            "mainClass": "Array.Array3",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Array4",
+            "request": "launch",
+            "mainClass": "Array.Array4",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Array5",
+            "request": "launch",
+            "mainClass": "Array.Array5",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListoperations",
+            "request": "launch",
+            "mainClass": "Array.ArrayListoperations",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLists",
+            "request": "launch",
+            "mainClass": "Array.ArrayLists",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Array_2D",
+            "request": "launch",
+            "mainClass": "Array.Array_2D",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Array_task",
+            "request": "launch",
+            "mainClass": "Array.Array_task",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Arrayprog1",
+            "request": "launch",
+            "mainClass": "Array.Arrayprog1",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Methods_Practice",
+            "request": "launch",
+            "mainClass": "Array.Methods_Practice",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "Array.ReverseArray",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Crime",
+            "request": "launch",
+            "mainClass": "Assignment.Crime",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Business",
+            "request": "launch",
+            "mainClass": "Business",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Cat",
+            "request": "launch",
+            "mainClass": "Cat",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Counter",
+            "request": "launch",
+            "mainClass": "Counter",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Customer2",
+            "request": "launch",
+            "mainClass": "Customer2",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "Employee",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Employee(1)",
+            "request": "launch",
+            "mainClass": "Employee.Employee",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "GUI1",
+            "request": "launch",
+            "mainClass": "GUI.GUI1",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "GUI2",
+            "request": "launch",
+            "mainClass": "GUI.GUI2",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "GUI.Main",
+            "projectName": "java_5ef2cad8",
+            "vmArgs": "--module-path /path/to/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "Inheritance.Main",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "Inheritance.Main2",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Programmer",
+            "request": "launch",
+            "mainClass": "Inheritance.Programmer",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "LoopStudent",
+            "request": "launch",
+            "mainClass": "LoopStudent",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Loops1",
+            "request": "launch",
+            "mainClass": "Loops.Loops1",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Methods1",
+            "request": "launch",
+            "mainClass": "Methods.Methods1",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Methods2",
+            "request": "launch",
+            "mainClass": "Methods.Methods2",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "MethodsOverLoading",
+            "request": "launch",
+            "mainClass": "Methods.MethodsOverLoading",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Overloading1",
+            "request": "launch",
+            "mainClass": "Methods.Overloading1",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Methods.Recursion",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "VarArgs",
+            "request": "launch",
+            "mainClass": "Methods.VarArgs",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "MonthDays2",
+            "request": "launch",
+            "mainClass": "MonthDays.MonthDays2",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Numbers1",
+            "request": "launch",
+            "mainClass": "Numbers1",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "AccessModifiers",
+            "request": "launch",
+            "mainClass": "OOPS.AccessModifiers",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "BuildingDemo",
+            "request": "launch",
+            "mainClass": "OOPS.BuildingDemo",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Constructor",
+            "request": "launch",
+            "mainClass": "OOPS.Constructor",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "OOP1",
+            "request": "launch",
+            "mainClass": "OOPS.OOP1",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "OOPS3",
+            "request": "launch",
+            "mainClass": "OOPS.OOPS3",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "PassingObjects",
+            "request": "launch",
+            "mainClass": "OOPS.PassingObjects",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Percentage",
+            "request": "launch",
+            "mainClass": "Percentage",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Conversion",
+            "request": "launch",
+            "mainClass": "Practice.Conversion",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Product",
+            "request": "launch",
+            "mainClass": "Product",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "ReadingSimplifier",
+            "request": "launch",
+            "mainClass": "ReadingSimplifier.ReadingSimplifier",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "StaticTest.Main",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Store_record",
+            "request": "launch",
+            "mainClass": "Store_record",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "circledemo",
+            "request": "launch",
+            "mainClass": "circledemo.circledemo",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "condition1",
+            "request": "launch",
+            "mainClass": "condition1",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "constructor1",
+            "request": "launch",
+            "mainClass": "constructor1",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "loops1",
+            "request": "launch",
+            "mainClass": "loops1",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "static_task",
+            "request": "launch",
+            "mainClass": "static_task",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "sum1",
+            "request": "launch",
+            "mainClass": "sum1",
+            "projectName": "java_5ef2cad8"
+        }
+    ]
+}
